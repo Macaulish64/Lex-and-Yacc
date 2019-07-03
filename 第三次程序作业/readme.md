@@ -8,8 +8,11 @@ F -> num|num.num|( E )
 ```
 #### 文件说明
 first.l------------Lex编写的词法分析程序,用于识别词
+
 second.y-----------Yacc编写的语法分析程序，用于识别语法产生式
+
 calc.in------------用于测试的算法表达式
+
 #### 如何运行？
 在Ubuntu16.04下
     首先编译yacc文件second.y，注意需要使用命令-d，得到second.tab.h与second.tab.c;
