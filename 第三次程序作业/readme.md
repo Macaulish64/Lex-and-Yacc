@@ -29,6 +29,6 @@ cc -o yaccdemo second.tab.c lex.yy.c
 
 #### 运行结果说明
 如图result.png所示
-
+[]!(https://github.com/Macaulish64/Lex-and-Yacc/blob/master/%E7%AC%AC%E4%B8%89%E6%AC%A1%E7%A8%8B%E5%BA%8F%E4%BD%9C%E4%B8%9A/result.png)
 #### 最后多说一句
 还是要自己写啊同学们。别抄哦
